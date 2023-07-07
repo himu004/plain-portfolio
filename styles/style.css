@@ -108,6 +108,7 @@ h2 {
     font-size: 3em;
     background-color: #125da4;
     color: #ffffff;
+    padding: 20px;
 }
 
 .about-container {
@@ -115,7 +116,6 @@ h2 {
     justify-content: space-around;
     align-items: center;
     background-color: #125da4;
-
 }
 
 .about-img {
